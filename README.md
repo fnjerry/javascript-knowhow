@@ -1,4 +1,4 @@
-[个人博客](https://lidaguang1989.github.io/)
+[个人博客](https://www.24s.net)
 
 #### JavaScript思维导图
 
